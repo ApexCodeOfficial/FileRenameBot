@@ -106,7 +106,7 @@ async def start_me(bot, update):
                     InlineKeyboardButton('Feedback', url='https://t.me/apexcodeadminbot')
                 ],
                 [
-                    InlineKeyboardButton('Other Bots', url='https://t.me/apexcodeofficial'),
+                    InlineKeyboardButton('Other Bots', url='https://t.me/apexcodeofficial/3'),
                     InlineKeyboardButton('Source', url='https://github.com/ApexCodeOfficial/FileRenameBot')
                 ]
             ]
